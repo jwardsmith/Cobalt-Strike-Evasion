@@ -106,4 +106,5 @@ process-inject {
 post-ex {
     set obfuscate "true";
     set cleanup "true";
+    set pipename "totally_not_beacon, legitPipe_##";
 }
