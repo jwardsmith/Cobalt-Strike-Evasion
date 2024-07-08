@@ -20,7 +20,6 @@ beacon> ak-settings spawnto_x86 C:\Windows\SysWOW64\dllhost.exe
 
 ```
 post-ex {
-        set amsi_disable "true";
         set spawnto_x64 "%windir%\\sysnative\\dllhost.exe";
         set spawnto_x86 "%windir%\\syswow64\\dllhost.exe";
 }
