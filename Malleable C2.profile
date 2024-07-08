@@ -91,6 +91,8 @@ http-stager {
 stage {
     set userwx "false";
     set cleanup "true";
+    set obfuscate "true";
+    set module_x64 "xpsservices.dll";
 }
 
 set host_stage "false";
