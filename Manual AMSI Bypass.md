@@ -1,3 +1,5 @@
+# Manual AMSI Bypass
+
 - External AMSI bypass
 
 ```
