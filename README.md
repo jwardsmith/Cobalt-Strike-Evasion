@@ -8,3 +8,5 @@
 - Command Line Detections
 - Memory Permissions
 - PPID Spoofing
+- SMB Named Pipes
+- ETW
