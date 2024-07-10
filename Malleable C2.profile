@@ -93,6 +93,7 @@ stage {
     set cleanup "true";
     set obfuscate "true";
     set module_x64 "xpsservices.dll";
+    set sleep_mask "true";
 }
 
 set host_stage "false";
